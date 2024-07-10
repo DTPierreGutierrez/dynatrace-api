@@ -7,3 +7,4 @@ pings
 pymysql
 pymongo
 setuptools>=35.0.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
