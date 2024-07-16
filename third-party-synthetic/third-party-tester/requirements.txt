@@ -6,4 +6,4 @@ datetime
 pings
 pymysql
 pymongo
-setuptools>=35.0.2
+setuptools>=70.0.0
